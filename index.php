@@ -47,6 +47,131 @@
 								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
 							</div>
 						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
+						<div class="row section-container">
+							<div class="col-sm-12">
+								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+							</div>
+						</div>
 						<div class="row section-container" id="home-page-cover-image">
 							<div class="col-sm-12">
 							</div>
@@ -75,6 +200,10 @@
 									</h3>
 									Collect Leads
 								</div>
+							</div>
+						</div>
+						<div class="row section-container" style="background-color:transparent;">
+							<div class="col-sm-12" style="height:250px;">
 							</div>
 						</div>
 					</div>
