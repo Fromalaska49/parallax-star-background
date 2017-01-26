@@ -32,8 +32,8 @@
 			}
 			*/
 			.star-layer-3 {
-				transform: translateZ(-3px) scale(6);
-				height: 100vh;
+				transform: translateZ(-3px) scale(4);
+				height: 50vh;
 				width: 100%;
 				position: absolute;
 				top: calc(250px - 50vh);
@@ -41,8 +41,8 @@
 			}
 			
 			.star-layer-2 {
-				transform: translateZ(-2px) scale(4);
-				height: 100vh;
+				transform: translateZ(-2px) scale(3);
+				height: 50vh;
 				width: 100%;
 				position: absolute;
 				top: calc(250px - 50vh);
@@ -51,7 +51,7 @@
 			
 			.star-layer-1 {
 				transform: translateZ(-1px) scale(2);
-				height: 100vh;
+				height: 50vh;
 				width: 100%;
 				position: absolute;
 				top: calc(250px - 50vh);

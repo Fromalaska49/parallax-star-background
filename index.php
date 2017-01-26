@@ -12,7 +12,7 @@
 		<?php
 			require('common/menu.php');
 		?>
-		<div id="page-container" style="height:1000px">
+		<div id="page-container" style="height:100vh;">
 			<!--<div id="stars-container">-->
 				<div id="group1" style="">
 					<div class="star-layer-3">
@@ -29,22 +29,14 @@
 					</div>
 				</div>
 			<!--</div>-->
-			<div id="content" class="container" style="overflow-y:scroll;">
-				<div class="row">
-					<div class="col-sm-12">
+			<div id="content" class="container" style="overflow:hidden;margin-bottom:-500px;">
+				<div class="row" style="overflow-y:hidden;">
+					<div class="col-sm-12" style="overflow-x:visible;">
 						<div class="row section-container">
 							<div class="col-sm-12">
-								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
-							</div>
-						</div>
-						<div class="row section-container">
-							<div class="col-sm-12">
-								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
-							</div>
-						</div>
-						<div class="row section-container">
-							<div class="col-sm-12">
-								100 Bit Tech is a San Antonio startup. Founded by students from UTSA, and beginning by developing an app for UTSA Underground, we are developing customizable apps that event managers and marketing gurus will be able to use to update their app on the fly and collect leads. 
+								It’s official! Come join us at RowdyHacks as we build apps, games, and many other neat projects in 24 hours. Whether you’re a seasoned hacker or new to the hackathon community, we’ve got your back through the whole hacking experience.
+								<br />
+								If you aren’t familiar, a hackathon is where you turn your crazy ideas into real projects. Plenty of your fellow peers gather to build something they’re passionate about so get involved in making incredible things.
 							</div>
 						</div>
 						<div class="row section-container" id="home-page-cover-image">
@@ -77,10 +69,12 @@
 								</div>
 							</div>
 						</div>
+						<!--
 						<div class="row section-container" style="background-color:transparent;opacity:1.0;box-shadow: 0px 0px 0px 0px transparent;">
 							<div class="col-sm-12" style="height:750px;background:url('images/eastern-hemisphere.png');background-repeat:no-repeat;background-position:center top;">
 							</div>
 						</div>
+						-->
 					</div>
 				</div>
 			</div>
