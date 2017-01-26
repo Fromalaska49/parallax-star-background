@@ -1,3 +1,18 @@
+/******************************************************************************
+  RowdyHacks Website CSS                                        March 12, 2016
+  Copyright ACM UTSA Student Chapter
+  Contributions: Kurt King, Bryan Deloeste, Kristin Mendoza, Andrew Hutton
+
+  Color Scheme (Layout/Font)
+    Tan-ish	#f8b195		darkened: #df987c
+    Pink	#f67280	darkened: #dd5967
+    Un Pink	#c06c84		darkened: #a7536b
+    Purple	#6c5b7b		darkened: #534262
+    Blue	#355c7d		darkened: #1c4364
+
+******************************************************************************/
+
+
 /****************************
 	Global styles
 ****************************/
@@ -79,7 +94,7 @@ body {
 }
 
 .nav>li>a:hover, .nav>li>a:active{
-	background-color: #1A8F00;
+	background-color: #1c4364;
 }
 
 .icon-bar{

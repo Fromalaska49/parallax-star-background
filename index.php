@@ -29,7 +29,7 @@
 					</div>
 				</div>
 			<!--</div>-->
-			<div id="content" class="container" style="overflow:hidden;margin-bottom:-500px;">
+			<div id="content" class="container" style="">
 				<div class="row" style="overflow-y:hidden;">
 					<div class="col-sm-12" style="overflow-x:visible;">
 						<div class="row section-container">
@@ -69,14 +69,12 @@
 								</div>
 							</div>
 						</div>
-						<!--
-						<div class="row section-container" style="background-color:transparent;opacity:1.0;box-shadow: 0px 0px 0px 0px transparent;">
+					</div>
+				</div>
+						<div class="row section-container" style="background-color:transparent;opacity:1.0;box-shadow: 0px 0px 0px 0px transparent;height:250px;overflow:hidden;position:relative:bottom:-500px;height:200px;padding:0px;margin:100px 0px 0px 0px;">
 							<div class="col-sm-12" style="height:750px;background:url('images/eastern-hemisphere.png');background-repeat:no-repeat;background-position:center top;">
 							</div>
 						</div>
-						-->
-					</div>
-				</div>
 			</div>
 		</div>
 		<?php
