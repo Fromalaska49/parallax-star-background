@@ -13,22 +13,20 @@
 			require('common/menu.php');
 		?>
 		<div id="page-container" style="height:100vh;">
-			<!--<div id="stars-container">-->
-				<div id="group1" style="">
-					<div class="star-layer-3">
-						<div id="star-layer-3">
-						</div>
-					</div>
-					<div class="star-layer-2">
-						<div id="star-layer-2">
-						</div>
-					</div>
-					<div class="star-layer-1">
-						<div id="star-layer-1">
-						</div>
+			<div id="group1" style="">
+				<div class="star-layer-3">
+					<div id="star-layer-3">
 					</div>
 				</div>
-			<!--</div>-->
+				<div class="star-layer-2">
+					<div id="star-layer-2">
+					</div>
+				</div>
+				<div class="star-layer-1">
+					<div id="star-layer-1">
+					</div>
+				</div>
+			</div>
 			<div id="content" class="container" style="">
 				<div class="row" style="overflow-y:hidden;">
 					<div class="col-sm-12" style="overflow-x:visible;">

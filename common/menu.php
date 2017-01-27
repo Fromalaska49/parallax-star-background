@@ -21,9 +21,9 @@
 				<div class="collapse navbar-collapse" id="nav-collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href=".">Home</a></li>
-						<li><a href=".">About</a></li>
-						<li><a href=".">Schedule</a></li>
-						<li><a href=".">Sponsors</a></li>
+						<li><a href="about.php">About</a></li>
+						<li><a href="schedule.php">Schedule</a></li>
+						<li><a href="sponsors.php">Sponsors</a></li>
 						<li><a href="faq.php">FAQ</a></li>
 						<!--
 							<li><a href="https://einvitations.afit.edu/inv/anim.cfm?i=324454&k=0163460D7E53">RSVP</a></li>
