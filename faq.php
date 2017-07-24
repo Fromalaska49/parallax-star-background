@@ -9,18 +9,17 @@
 		</title>
 		<style type="text/css">
 			.faq-item {
-				min-height: 100px;
-					background-color: #ffffff;
-					opacity:0.8;
+				background-color: #ffffff;
+				opacity: 0.9;
 				border-radius: 2px;
-				padding:0px 10px 20px 10px;
-				margin:10px;
+				padding: 10px 20px 30px 20px;
+				margin: 25px 0px;
 			}
 			
 			.faq-item>h3 {
 				border-style: none none solid none;
-				border-width: 3px;
-				border-color: #c06c84;
+				border-width: 5px;
+				border-color: #944E96;/*#c06c84*/
 				padding: 10px;
 			}
 		</style>
@@ -129,10 +128,10 @@
 						</div>
 					</div>
 				</div>
-						<div class="row section-container" style="background-color:transparent;opacity:1.0;box-shadow: 0px 0px 0px 0px transparent;height:250px;overflow:hidden;position:relative:bottom:-500px;height:200px;padding:0px;margin:100px 0px 0px 0px;">
-							<div class="col-sm-12" style="height:750px;background:url('images/eastern-hemisphere.png');background-repeat:no-repeat;background-position:center top;">
-							</div>
-						</div>
+				<div class="row" id="earth-container">
+					<div class="col-sm-12" id="earth">
+					</div>
+				</div>
 			</div>
 		</div>
 		<?php

@@ -35,29 +35,21 @@
 				</div>
 			</div>
 			<div id="content" class="container" style="">
-				<div class="row section-container" style="text-align:center;">
+				<div class="row section-container">
 					<div class="col-sm-12">
 						<h1 style="margin:20px 30px 70px 30px;">
-							Last Year's Sponsors
+							Schedule
 						</h1>
-					</div>
-					<div class="col-sm-12">
-						<div class="row">
-							<div class="col-md-6 col-sm-12" style="text-align:inherit;">
-								<img src="images/sponsors/logos/alexa.png" class="sponsor-logo" />
-							</div>
-							<div class="col-md-6 col-sm-12" style="text-align:inherit;">
-								<img src="images/sponsors/logos/cs-department.png" class="sponsor-logo" />
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-6 col-sm-12" style="text-align:inherit;">
-								<img src="images/sponsors/logos/promoter.png" class="sponsor-logo" />
-							</div>
-							<div class="col-md-6 col-sm-12" style="text-align:inherit;">
-								<img src="images/sponsors/logos/sa-code-jam.png" class="sponsor-logo" />
-							</div>
-						</div>
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<p>
+							TBA
+						</p>
 					</div>
 				</div>
 				<div class="row" id="earth-container">

@@ -13,6 +13,23 @@
 ******************************************************************************/
 
 
+/*
+blue	#0C5494	#003b7b
+pink
+#944E96
+brown
+#96704E
+green
+#51964E
+*/
+
+
+
+
+
+
+
+
 /****************************
 	Global styles
 ****************************/
@@ -31,14 +48,14 @@ body {
 	Header & main navbar
 ****************************/
 #main-menu-container {
-	background-color: #355c7d;
+	background-color: #256dad;
 	color: #ffffff;
 	height: 70px;
 	box-shadow: 0px 0px 10px -1px #000000;
 }
 
 .navbar-collapse {
-	background-color: #355c7d;
+	background-color: #256dad;
 }
 
 .navbar, .navbar > div, .navbar-header {
@@ -94,7 +111,7 @@ body {
 }
 
 .nav>li>a:hover, .nav>li>a:active{
-	background-color: #1c4364;
+	background-color: #003b7b;
 }
 
 .icon-bar{
@@ -228,7 +245,7 @@ body {
 	box-shadow: 0px 1px 11px -3px;
 	border-radius: 3px;
 	background-color: #ffffff;
-	opacity:0.8;
+	opacity:0.9;
 }
 
 .partial-section-container {
@@ -477,6 +494,28 @@ input[type=image].slack-button:hover, input[type=image].slack-button:active {
 
 #about-page-tamuhacks-image>div.col-sm-12 {
 	height: 300px;
+}
+
+#earth-container {
+	background-color: transparent;
+	opacity: 1.0;
+	box-shadow: 0px 0px 0px 0px transparent;
+	height: 250px;
+	overflow: hidden;
+	/*
+	position:relative;
+	bottom:-500px;
+	*/
+	height: 200px;
+	padding: 0px;
+	margin: 100px 0px 0px 0px;
+}
+
+#earth {
+	height: 750px;
+	background: url('../images/eastern-hemisphere.png');
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 @media (max-width: 767px) {

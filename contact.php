@@ -63,6 +63,10 @@
 						</div>
 					</div>
 				</div>
+				<div class="row" id="earth-container">
+					<div class="col-sm-12" id="earth">
+					</div>
+				</div>
 			</div>
 		</div>
 		<?php
